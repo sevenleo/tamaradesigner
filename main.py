@@ -118,6 +118,17 @@ def renomear_arquivos_e_pastas(caminho_raiz):
                 except Exception as e:
                     print(f"Erro ao renomear pasta {pasta}: {e}")
 
+# def listar_imagens(caminho_raiz, base_url):
+#     imagens = []
+#     for raiz, _, arquivos in os.walk(caminho_raiz):
+#         for arquivo in arquivos:
+#             if arquivo.lower().endswith(".png"):
+#                 # Converte o caminho para usar barras normais
+#                 caminho_relativo = os.path.relpath(os.path.join(raiz, arquivo), caminho_raiz).replace("\\", "/")
+#                 nome_arquivo = os.path.splitext(arquivo)[0]
+#                 imagens.append({"url": base_url + caminho_relativo, "title": nome_arquivo})
+#     return imagens
+
 def listar_imagens(caminho_raiz, base_url):
     imagens = []
     for raiz, _, arquivos in os.walk(caminho_raiz):
@@ -126,8 +137,10 @@ def listar_imagens(caminho_raiz, base_url):
                 # Converte o caminho para usar barras normais
                 caminho_relativo = os.path.relpath(os.path.join(raiz, arquivo), caminho_raiz).replace("\\", "/")
                 nome_arquivo = os.path.splitext(arquivo)[0]
-                imagens.append({"url": base_url + caminho_relativo, "title": nome_arquivo})
-    return imagens
+                image_obj = {"url": base_url + caminho_relativo, "title": nome_arquivo}
+                imagens.append(image_obj)
+    return {"images": imagens}
+
 
 if __name__ == "__main__":
     # Define a pasta 'figurinhas' que deve estar na mesma pasta do script
