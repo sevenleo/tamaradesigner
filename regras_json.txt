@@ -16,3 +16,9 @@ Imagens com likes: ordenar por valor decrescente (maior para menor)
 Imagens com recent: ordenar por valor decrescente (maior para menor)
 Imagens sem campos opcionais mantêm ordem original
 Restante das imagens na ordem que aparecem no arquivo original json
+
+
+
+imagens com a chave premium deve ter os respectivos botoes "copiar para area de transferência" e "editar imagem" desabilitados
+se o usuario nao estiver logado
+
