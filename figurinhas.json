@@ -4,20 +4,27 @@
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/bom_dia.png",
             "title": "bom_dia"
             ,"likes": 0
+            ,
+            "premium": true
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/bom_dia_mundao.png",
             "title": "bom_dia_mundao"
+            ,"premium": true
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/bom_dia_mundao_amarelo.png",
             "title": "bom_dia_mundao_amarelo"
             ,
             "likes": 1
+            ,
+            "premium": true
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/bom_dia_mundao_transparente.png",
             "title": "bom_dia_mundao_transparente"
+            ,
+            "premium": true
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/cha_e_coragem.png",

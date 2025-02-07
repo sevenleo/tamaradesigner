@@ -1,0 +1,18 @@
+galeria de imagens JSON seguindo estas regras de priorização:
+
+Entrada: 
+Array de objetos JSON 
+
+Cada objeto possui:
+
+Campos obrigatórios: url, title
+Campos opcionais: promote (int), favorite (int), likes (int), recent (int)
+
+Regras de ordenação em ordem de prioridade:
+
+Imagens com promote: ordenar por valor crescente (menor para maior)
+Imagens com favorite: ordenar por valor decrescente (maior para menor)
+Imagens com likes: ordenar por valor decrescente (maior para menor)
+Imagens com recent: ordenar por valor decrescente (maior para menor)
+Imagens sem campos opcionais mantêm ordem original
+Restante das imagens na ordem que aparecem no arquivo original json
