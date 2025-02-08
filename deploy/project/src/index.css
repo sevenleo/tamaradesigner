@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add dark mode styles to html and body */
+html.dark,
+body.dark {
+  @apply bg-gray-900;
+}
+
+html, body {
+  @apply min-h-screen w-full;
+}
+
+#root {
+  @apply min-h-screen w-full;
+}
