@@ -1,4 +1,0 @@
-quero tornar impossivel o usuario obter a imagem, obter a url dela, copiar ela ou abrir ela em outra aba, a ideia é que o usuario só consigacopiar e obter a imagm atraves do botao "copiar para a area de transferencia" penso que bloquer o uso do botao direito do mouse na pagina é um bom inicio de solucao mas gostaria de outras solucoes
-
-aplique todas estas medidas também na seção/modal/menu de editar imagem
-além disso faça a marca dagua um pouco mais transparente
