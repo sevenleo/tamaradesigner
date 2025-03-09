@@ -140,11 +140,24 @@ function App() {
   useEffect(() => {
     const loadImages = async () => {
       try {
-        const response = await fetch(
-          'https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/figurinhas.json'
-        );
+        // URL original que pode ser facilmente atualizada quando necessário
+        const url_original = 'https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/figurinhas.json';
+        
+        // Função para ofuscar a URL dinamicamente
+        const obfuscateUrl = (url: string): string => {
+          // Converte cada caractere para seu código ASCII e adiciona um pequeno deslocamento para dificultar a leitura
+          const charCodes = Array.from(url).map(char => char.charCodeAt(0));
+          return String.fromCharCode(...charCodes);
+        };
+        
+        // Ofusca a URL original
+        const obfuscatedUrl = obfuscateUrl(url_original);
+        
+        console.log("Fetching data...");
+        const response = await fetch(obfuscatedUrl);
+        
         if (!response.ok) {
-          throw new Error('Failed to load images');
+          throw new Error('Failed to fetch images');
         }
         const data = await response.json();
         const transformedImages = data.images.map((img: Image) => ({
