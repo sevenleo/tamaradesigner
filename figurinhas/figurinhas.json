@@ -1,1381 +1,1351 @@
 {
     "images": [
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/bom_dia.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/bom_dia.png",
             "title": "bom_dia"
-            ,"likes": 0
-            ,
-            "premium": true
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/bom_dia_mundao.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/bom_dia_mundao.png",
             "title": "bom_dia_mundao"
-            ,"premium": true
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/bom_dia_mundao_amarelo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/bom_dia_mundao_amarelo.png",
             "title": "bom_dia_mundao_amarelo"
-            ,
-            "likes": 1
-            ,
-            "premium": true
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/bom_dia_mundao_transparente.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/bom_dia_mundao_transparente.png",
             "title": "bom_dia_mundao_transparente"
-            ,
-            "premium": true
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/cha_e_coragem.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/cha_e_coragem.png",
             "title": "cha_e_coragem"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/cha_e_coragem_transparente.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/cha_e_coragem_transparente.png",
             "title": "cha_e_coragem_transparente"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/entao_boa_noite.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/entao_boa_noite.png",
             "title": "entao_boa_noite"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/oi_fevereiro_preto.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/oi_fevereiro_preto.png",
             "title": "oi_fevereiro_preto"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/oi_fevereiro_transparente.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/oi_fevereiro_transparente.png",
             "title": "oi_fevereiro_transparente"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/o_sabado_que_eu_gosto_branco.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/o_sabado_que_eu_gosto_branco.png",
             "title": "o_sabado_que_eu_gosto_branco"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/o_sabado_que_eu_go_gosto_rosa.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/o_sabado_que_eu_go_gosto_rosa.png",
             "title": "o_sabado_que_eu_go_gosto_rosa"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/sabado.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/sabado.png",
             "title": "sabado"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/tudo_que_eu_quero.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/tudo_que_eu_quero.png",
             "title": "tudo_que_eu_quero"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/tudo_que_eu_quero_eu_tenho.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/tudo_que_eu_quero_eu_tenho.png",
             "title": "tudo_que_eu_quero_eu_tenho"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/tudo_que_eu_quero_transparente.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/tudo_que_eu_quero_transparente.png",
             "title": "tudo_que_eu_quero_transparente"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/sabado_preto_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/sabado_preto_giorgio_maiusculo.png",
             "title": "sabado_preto_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/black/domingo_preto_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/black/domingo_preto_giorgio_maiusculo.png",
             "title": "domingo_preto_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/black/quarta_preto_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/black/quarta_preto_giorgio_maiusculo.png",
             "title": "quarta_preto_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/black/quinta_preto_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/black/quinta_preto_giorgio_maiusculo.png",
             "title": "quinta_preto_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/black/sabado_preto_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/black/sabado_preto_giorgio_maiusculo.png",
             "title": "sabado_preto_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/black/segunda_preto_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/black/segunda_preto_giorgio_maiusculo.png",
             "title": "segunda_preto_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/black/sexta_preto_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/black/sexta_preto_giorgio_maiusculo.png",
             "title": "sexta_preto_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/black/terca_preto_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/black/terca_preto_giorgio_maiusculo.png",
             "title": "terca_preto_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/branco/domingo_branco_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/branco/domingo_branco_giorgio_maiusculo.png",
             "title": "domingo_branco_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/branco/quarta_branco_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/branco/quarta_branco_giorgio_maiusculo.png",
             "title": "quarta_branco_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/branco/quinta_branco_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/branco/quinta_branco_giorgio_maiusculo.png",
             "title": "quinta_branco_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/branco/sabado_branco_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/branco/sabado_branco_giorgio_maiusculo.png",
             "title": "sabado_branco_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/branco/segunda_branco_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/branco/segunda_branco_giorgio_maiusculo.png",
             "title": "segunda_branco_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/branco/sexta_branco_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/branco/sexta_branco_giorgio_maiusculo.png",
             "title": "sexta_branco_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/branco/terca_branco_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/branco/terca_branco_giorgio_maiusculo.png",
             "title": "terca_branco_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/domingo_transparente_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/domingo_transparente_giorgio_maiusculo.png",
             "title": "domingo_transparente_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/quarta_transparente_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/quarta_transparente_giorgio_maiusculo.png",
             "title": "quarta_transparente_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/quinta_transparente_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/quinta_transparente_giorgio_maiusculo.png",
             "title": "quinta_transparente_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/sabado_transparente_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/sabado_transparente_giorgio_maiusculo.png",
             "title": "sabado_transparente_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/segunda_transparente_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/segunda_transparente_giorgio_maiusculo.png",
             "title": "segunda_transparente_giorgio_maiusculo"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/sexta_transparente_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/sexta_transparente_giorgio_maiusculo.png",
             "title": "sexta_transparente_giorgio_maiusculo"
-            ,
-            "recent": 0
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/terca_transparente_giorgio_maiusculo.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/terca_transparente_giorgio_maiusculo.png",
             "title": "terca_transparente_giorgio_maiusculo"
-            ,
-            "recent": 0
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_azul/domingo_transparente_giorgio_maiusculo_coracao_blue.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_azul/domingo_transparente_giorgio_maiusculo_coracao_blue.png",
             "title": "domingo_transparente_giorgio_maiusculo_coracao_blue"
-            ,
-            "recent": 0
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_azul/quarta_transparente_giorgio_maiusculo_coracao_blue.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_azul/quarta_transparente_giorgio_maiusculo_coracao_blue.png",
             "title": "quarta_transparente_giorgio_maiusculo_coracao_blue"
-            ,
-            "recent": 1
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_azul/quinta_transparente_giorgio_maiusculo_coracao_blue.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_azul/quinta_transparente_giorgio_maiusculo_coracao_blue.png",
             "title": "quinta_transparente_giorgio_maiusculo_coracao_blue"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_azul/sabado_transparente_giorgio_maiusculo_coracao_blue.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_azul/sabado_transparente_giorgio_maiusculo_coracao_blue.png",
             "title": "sabado_transparente_giorgio_maiusculo_coracao_blue"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_azul/segunda_transparente_giorgio_maiusculo_coracao_blue.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_azul/segunda_transparente_giorgio_maiusculo_coracao_blue.png",
             "title": "segunda_transparente_giorgio_maiusculo_coracao_blue"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_azul/segundou_giorgio_black_blue.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_azul/segundou_giorgio_black_blue.png",
             "title": "segundou_giorgio_black_blue"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_azul/segundou_giorgio_branco_blue.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_azul/segundou_giorgio_branco_blue.png",
             "title": "segundou_giorgio_branco_blue"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_azul/segundou_giorgio_transp_blue.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_azul/segundou_giorgio_transp_blue.png",
             "title": "segundou_giorgio_transp_blue"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_azul/sexta_transparente_giorgio_maiusculo_coracao_blue.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_azul/sexta_transparente_giorgio_maiusculo_coracao_blue.png",
             "title": "sexta_transparente_giorgio_maiusculo_coracao_blue"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_azul/terca_transparente_giorgio_maiusculo_coracao_blue.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_azul/terca_transparente_giorgio_maiusculo_coracao_blue.png",
             "title": "terca_transparente_giorgio_maiusculo_coracao_blue"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_branco/domingo_transparente_giorgio_maiusculo_coracao_black.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_branco/domingo_transparente_giorgio_maiusculo_coracao_black.png",
             "title": "domingo_transparente_giorgio_maiusculo_coracao_black"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_branco/quarta_transparente_giorgio_maiusculo_coracao_black.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_branco/quarta_transparente_giorgio_maiusculo_coracao_black.png",
             "title": "quarta_transparente_giorgio_maiusculo_coracao_black"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_branco/quinta_transparente_giorgio_maiusculo_coracao_black.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_branco/quinta_transparente_giorgio_maiusculo_coracao_black.png",
             "title": "quinta_transparente_giorgio_maiusculo_coracao_black"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_branco/sabado_transparente_giorgio_maiusculo_coracao_black.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_branco/sabado_transparente_giorgio_maiusculo_coracao_black.png",
             "title": "sabado_transparente_giorgio_maiusculo_coracao_black"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_branco/segunda_transparente_giorgio_maiusculo_coracao_black.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_branco/segunda_transparente_giorgio_maiusculo_coracao_black.png",
             "title": "segunda_transparente_giorgio_maiusculo_coracao_black"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_branco/sexta_transparente_giorgio_maiusculo_coracao_black.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_branco/sexta_transparente_giorgio_maiusculo_coracao_black.png",
             "title": "sexta_transparente_giorgio_maiusculo_coracao_black"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_branco/terca_transparente_giorgio_maiusculo_coracao_black.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_branco/terca_transparente_giorgio_maiusculo_coracao_black.png",
             "title": "terca_transparente_giorgio_maiusculo_coracao_black"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_rosa/domingo_transparente_giorgio_maiusculo_coracao_rosa.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_rosa/domingo_transparente_giorgio_maiusculo_coracao_rosa.png",
             "title": "domingo_transparente_giorgio_maiusculo_coracao_rosa"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_rosa/quarta_transparente_giorgio_maiusculo_coracao_rosa.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_rosa/quarta_transparente_giorgio_maiusculo_coracao_rosa.png",
             "title": "quarta_transparente_giorgio_maiusculo_coracao_rosa"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_rosa/quinta_transparente_giorgio_maiusculo_coracao_rosa.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_rosa/quinta_transparente_giorgio_maiusculo_coracao_rosa.png",
             "title": "quinta_transparente_giorgio_maiusculo_coracao_rosa"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_rosa/sabado_transparente_giorgio_maiusculo_coracao_rosa.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_rosa/sabado_transparente_giorgio_maiusculo_coracao_rosa.png",
             "title": "sabado_transparente_giorgio_maiusculo_coracao_rosa"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_rosa/segunda_transparente_giorgio_maiusculo_coracao_rosa.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_rosa/segunda_transparente_giorgio_maiusculo_coracao_rosa.png",
             "title": "segunda_transparente_giorgio_maiusculo_coracao_rosa"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_rosa/sexta_transparente_giorgio_maiusculo_coracao_rosa.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_rosa/sexta_transparente_giorgio_maiusculo_coracao_rosa.png",
             "title": "sexta_transparente_giorgio_maiusculo_coracao_rosa"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/transp/coracao_rosa/terca_transparente_giorgio_maiusculo_coracao_rosa.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_rosa/terca_transparente_giorgio_maiusculo_coracao_rosa.png",
             "title": "terca_transparente_giorgio_maiusculo_coracao_rosa"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/quarta/quarta_feira_kind_black.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/quarta/quarta_feira_kind_black.png",
             "title": "quarta_feira_kind_black"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/quarta/quarta_feira_kind_transp.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/quarta/quarta_feira_kind_transp.png",
             "title": "quarta_feira_kind_transp"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/quarta/quarta_feira_kind_white.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/quarta/quarta_feira_kind_white.png",
             "title": "quarta_feira_kind_white"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/quarta/quarta_kind_black.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/quarta/quarta_kind_black.png",
             "title": "quarta_kind_black"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/quarta/quarta_kind_transp.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/quarta/quarta_kind_transp.png",
             "title": "quarta_kind_transp"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/quarta/quarta_kind_white.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/quarta/quarta_kind_white.png",
             "title": "quarta_kind_white"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/quarta/quartou_kind_black.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/quarta/quartou_kind_black.png",
             "title": "quartou_kind_black"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/quarta/quartou_kind_transp.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/quarta/quartou_kind_transp.png",
             "title": "quartou_kind_transp"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/quarta/quartou_kind_white.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/quarta/quartou_kind_white.png",
             "title": "quartou_kind_white"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/segunda/segundou_giorgio_black_coracoessorrisinho.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/segunda/segundou_giorgio_black_coracoessorrisinho.png",
             "title": "segundou_giorgio_black_coracoessorrisinho"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/segunda/segundou_giorgio_branco_doiscoracoes.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/segunda/segundou_giorgio_branco_doiscoracoes.png",
             "title": "segundou_giorgio_branco_doiscoracoes"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/segunda/segundou_giorgio_transp_doiscoracoes.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/segunda/segundou_giorgio_transp_doiscoracoes.png",
             "title": "segundou_giorgio_transp_doiscoracoes"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/segunda/segundou_kind_black.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/segunda/segundou_kind_black.png",
             "title": "segundou_kind_black"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/segunda/segundou_kind_black_1.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/segunda/segundou_kind_black_1.png",
             "title": "segundou_kind_black_1"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/segunda/segundou_kind_black_2.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/segunda/segundou_kind_black_2.png",
             "title": "segundou_kind_black_2"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/segunda/segundou_kind_transp.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/segunda/segundou_kind_transp.png",
             "title": "segundou_kind_transp"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/segunda/segundou_kind_transp_1.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/segunda/segundou_kind_transp_1.png",
             "title": "segundou_kind_transp_1"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/segunda/segundou_kind_transp_2.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/segunda/segundou_kind_transp_2.png",
             "title": "segundou_kind_transp_2"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/segunda/segundou_kind_white.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/segunda/segundou_kind_white.png",
             "title": "segundou_kind_white"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/segunda/segundou_kind_white_1.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/segunda/segundou_kind_white_1.png",
             "title": "segundou_kind_white_1"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/segunda/segundou_kind_white_2.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/segunda/segundou_kind_white_2.png",
             "title": "segundou_kind_white_2"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/terca/terca_feira_kind_black.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/terca/terca_feira_kind_black.png",
             "title": "terca_feira_kind_black"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/terca/terca_feira_kind_transp.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/terca/terca_feira_kind_transp.png",
             "title": "terca_feira_kind_transp"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/terca/terca_feira_kind_white.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/terca/terca_feira_kind_white.png",
             "title": "terca_feira_kind_white"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/terca/terca_kind_black.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/terca/terca_kind_black.png",
             "title": "terca_kind_black"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/terca/terca_kind_transp.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/terca/terca_kind_transp.png",
             "title": "terca_kind_transp"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/terca/terca_kind_white.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/terca/terca_kind_white.png",
             "title": "terca_kind_white"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/terca/tercou_kind_black.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/terca/tercou_kind_black.png",
             "title": "tercou_kind_black"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/terca/tercou_kind_transp.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/terca/tercou_kind_transp.png",
             "title": "tercou_kind_transp"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/dias_da_semanas/variados/terca/tercou_kind_white.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/variados/terca/tercou_kind_white.png",
             "title": "tercou_kind_white"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/abril_branco_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/abril_branco_karmella.png",
             "title": "abril_branco_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/abril_branco_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/abril_branco_kindheart.png",
             "title": "abril_branco_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/abril_branco_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/abril_branco_minuscula_karmella.png",
             "title": "abril_branco_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/abril_branco_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/abril_branco_minuscula_kindheart.png",
             "title": "abril_branco_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/abril_branco_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/abril_branco_minuscula_neometric.png",
             "title": "abril_branco_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/abril_branco_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/abril_branco_neometric.png",
             "title": "abril_branco_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/abril_preto_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/abril_preto_karmella.png",
             "title": "abril_preto_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/abril_preto_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/abril_preto_kindheart.png",
             "title": "abril_preto_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/abril_preto_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/abril_preto_minuscula_karmella.png",
             "title": "abril_preto_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/abril_preto_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/abril_preto_minuscula_kindheart.png",
             "title": "abril_preto_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/abril_preto_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/abril_preto_minuscula_neometric.png",
             "title": "abril_preto_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/abril_preto_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/abril_preto_neometric.png",
             "title": "abril_preto_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/abril_transparente_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/abril_transparente_karmella.png",
             "title": "abril_transparente_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/abril_transparente_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/abril_transparente_kindheart.png",
             "title": "abril_transparente_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/abril_transparente_maiuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/abril_transparente_maiuscula_karmella.png",
             "title": "abril_transparente_maiuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/abril_transparente_maiuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/abril_transparente_maiuscula_kindheart.png",
             "title": "abril_transparente_maiuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/abril_transparente_maiuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/abril_transparente_maiuscula_neometric.png",
             "title": "abril_transparente_maiuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/abril_transparente_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/abril_transparente_neometric.png",
             "title": "abril_transparente_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/agosto_branco_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/agosto_branco_karmella.png",
             "title": "agosto_branco_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/agosto_branco_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/agosto_branco_kindheart.png",
             "title": "agosto_branco_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/agosto_branco_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/agosto_branco_minuscula_karmella.png",
             "title": "agosto_branco_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/agosto_branco_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/agosto_branco_minuscula_kindheart.png",
             "title": "agosto_branco_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/agosto_branco_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/agosto_branco_minuscula_neometric.png",
             "title": "agosto_branco_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/agosto_branco_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/agosto_branco_neometric.png",
             "title": "agosto_branco_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/agosto_preto_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/agosto_preto_karmella.png",
             "title": "agosto_preto_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/agosto_preto_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/agosto_preto_kindheart.png",
             "title": "agosto_preto_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/agosto_preto_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/agosto_preto_minuscula_karmella.png",
             "title": "agosto_preto_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/agosto_preto_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/agosto_preto_minuscula_kindheart.png",
             "title": "agosto_preto_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/agosto_preto_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/agosto_preto_minuscula_neometric.png",
             "title": "agosto_preto_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/agosto_preto_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/agosto_preto_neometric.png",
             "title": "agosto_preto_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/agosto_transparente_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/agosto_transparente_karmella.png",
             "title": "agosto_transparente_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/agosto_transparente_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/agosto_transparente_kindheart.png",
             "title": "agosto_transparente_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/agosto_transparente_maiuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/agosto_transparente_maiuscula_karmella.png",
             "title": "agosto_transparente_maiuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/agosto_transparente_maiuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/agosto_transparente_maiuscula_kindheart.png",
             "title": "agosto_transparente_maiuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/agosto_transparente_maiuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/agosto_transparente_maiuscula_neometric.png",
             "title": "agosto_transparente_maiuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/agosto_transparente_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/agosto_transparente_neometric.png",
             "title": "agosto_transparente_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/dezembro_branco_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/dezembro_branco_karmella.png",
             "title": "dezembro_branco_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/dezembro_branco_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/dezembro_branco_kindheart.png",
             "title": "dezembro_branco_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/dezembro_branco_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/dezembro_branco_minuscula_karmella.png",
             "title": "dezembro_branco_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/dezembro_branco_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/dezembro_branco_minuscula_kindheart.png",
             "title": "dezembro_branco_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/dezembro_branco_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/dezembro_branco_minuscula_neometric.png",
             "title": "dezembro_branco_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/dezembro_branco_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/dezembro_branco_neometric.png",
             "title": "dezembro_branco_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/dezembro_preto_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/dezembro_preto_karmella.png",
             "title": "dezembro_preto_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/dezembro_preto_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/dezembro_preto_kindheart.png",
             "title": "dezembro_preto_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/dezembro_preto_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/dezembro_preto_minuscula_karmella.png",
             "title": "dezembro_preto_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/dezembro_preto_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/dezembro_preto_minuscula_kindheart.png",
             "title": "dezembro_preto_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/dezembro_preto_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/dezembro_preto_minuscula_neometric.png",
             "title": "dezembro_preto_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/dezembro_preto_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/dezembro_preto_neometric.png",
             "title": "dezembro_preto_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/dezembro_transparente_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/dezembro_transparente_karmella.png",
             "title": "dezembro_transparente_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/dezembro_transparente_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/dezembro_transparente_kindheart.png",
             "title": "dezembro_transparente_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/dezembro_transparente_maiuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/dezembro_transparente_maiuscula_karmella.png",
             "title": "dezembro_transparente_maiuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/dezembro_transparente_maiuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/dezembro_transparente_maiuscula_kindheart.png",
             "title": "dezembro_transparente_maiuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/dezembro_transparente_maiuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/dezembro_transparente_maiuscula_neometric.png",
             "title": "dezembro_transparente_maiuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/dezembro_transparente_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/dezembro_transparente_neometric.png",
             "title": "dezembro_transparente_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/fevereiro_branco_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/fevereiro_branco_karmella.png",
             "title": "fevereiro_branco_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/fevereiro_branco_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/fevereiro_branco_kindheart.png",
             "title": "fevereiro_branco_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/fevereiro_branco_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/fevereiro_branco_minuscula_karmella.png",
             "title": "fevereiro_branco_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/fevereiro_branco_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/fevereiro_branco_minuscula_kindheart.png",
             "title": "fevereiro_branco_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/fevereiro_branco_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/fevereiro_branco_minuscula_neometric.png",
             "title": "fevereiro_branco_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/fevereiro_branco_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/fevereiro_branco_neometric.png",
             "title": "fevereiro_branco_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/fevereiro_preto_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/fevereiro_preto_karmella.png",
             "title": "fevereiro_preto_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/fevereiro_preto_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/fevereiro_preto_kindheart.png",
             "title": "fevereiro_preto_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/fevereiro_preto_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/fevereiro_preto_minuscula_karmella.png",
             "title": "fevereiro_preto_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/fevereiro_preto_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/fevereiro_preto_minuscula_kindheart.png",
             "title": "fevereiro_preto_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/fevereiro_preto_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/fevereiro_preto_minuscula_neometric.png",
             "title": "fevereiro_preto_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/fevereiro_preto_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/fevereiro_preto_neometric.png",
             "title": "fevereiro_preto_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/fevereiro_transparente_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/fevereiro_transparente_karmella.png",
             "title": "fevereiro_transparente_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/fevereiro_transparente_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/fevereiro_transparente_kindheart.png",
             "title": "fevereiro_transparente_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/fevereiro_transparente_maiuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/fevereiro_transparente_maiuscula_karmella.png",
             "title": "fevereiro_transparente_maiuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/fevereiro_transparente_maiuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/fevereiro_transparente_maiuscula_kindheart.png",
             "title": "fevereiro_transparente_maiuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/fevereiro_transparente_maiuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/fevereiro_transparente_maiuscula_neometric.png",
             "title": "fevereiro_transparente_maiuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/fevereiro_transparente_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/fevereiro_transparente_neometric.png",
             "title": "fevereiro_transparente_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/janeiro_branco_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/janeiro_branco_karmella.png",
             "title": "janeiro_branco_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/janeiro_branco_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/janeiro_branco_kindheart.png",
             "title": "janeiro_branco_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/janeiro_branco_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/janeiro_branco_minuscula_karmella.png",
             "title": "janeiro_branco_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/janeiro_branco_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/janeiro_branco_minuscula_kindheart.png",
             "title": "janeiro_branco_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/janeiro_branco_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/janeiro_branco_minuscula_neometric.png",
             "title": "janeiro_branco_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/janeiro_branco_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/janeiro_branco_neometric.png",
             "title": "janeiro_branco_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/janeiro_preto_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/janeiro_preto_karmella.png",
             "title": "janeiro_preto_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/janeiro_preto_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/janeiro_preto_kindheart.png",
             "title": "janeiro_preto_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/janeiro_preto_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/janeiro_preto_minuscula_karmella.png",
             "title": "janeiro_preto_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/janeiro_preto_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/janeiro_preto_minuscula_kindheart.png",
             "title": "janeiro_preto_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/janeiro_preto_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/janeiro_preto_minuscula_neometric.png",
             "title": "janeiro_preto_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/janeiro_preto_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/janeiro_preto_neometric.png",
             "title": "janeiro_preto_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/janeiro_transparente_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/janeiro_transparente_karmella.png",
             "title": "janeiro_transparente_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/janeiro_transparente_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/janeiro_transparente_kindheart.png",
             "title": "janeiro_transparente_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/janeiro_transparente_maiuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/janeiro_transparente_maiuscula_karmella.png",
             "title": "janeiro_transparente_maiuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/janeiro_transparente_maiuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/janeiro_transparente_maiuscula_kindheart.png",
             "title": "janeiro_transparente_maiuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/janeiro_transparente_maiuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/janeiro_transparente_maiuscula_neometric.png",
             "title": "janeiro_transparente_maiuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/janeiro_transparente_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/janeiro_transparente_neometric.png",
             "title": "janeiro_transparente_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/julho_branco_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/julho_branco_karmella.png",
             "title": "julho_branco_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/julho_branco_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/julho_branco_kindheart.png",
             "title": "julho_branco_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/julho_branco_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/julho_branco_minuscula_karmella.png",
             "title": "julho_branco_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/julho_branco_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/julho_branco_minuscula_kindheart.png",
             "title": "julho_branco_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/julho_branco_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/julho_branco_minuscula_neometric.png",
             "title": "julho_branco_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/julho_branco_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/julho_branco_neometric.png",
             "title": "julho_branco_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/julho_preto_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/julho_preto_karmella.png",
             "title": "julho_preto_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/julho_preto_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/julho_preto_kindheart.png",
             "title": "julho_preto_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/julho_preto_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/julho_preto_minuscula_karmella.png",
             "title": "julho_preto_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/julho_preto_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/julho_preto_minuscula_kindheart.png",
             "title": "julho_preto_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/julho_preto_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/julho_preto_minuscula_neometric.png",
             "title": "julho_preto_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/julho_preto_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/julho_preto_neometric.png",
             "title": "julho_preto_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/julho_transparente_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/julho_transparente_karmella.png",
             "title": "julho_transparente_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/julho_transparente_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/julho_transparente_kindheart.png",
             "title": "julho_transparente_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/julho_transparente_maiuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/julho_transparente_maiuscula_karmella.png",
             "title": "julho_transparente_maiuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/julho_transparente_maiuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/julho_transparente_maiuscula_kindheart.png",
             "title": "julho_transparente_maiuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/julho_transparente_maiuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/julho_transparente_maiuscula_neometric.png",
             "title": "julho_transparente_maiuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/julho_transparente_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/julho_transparente_neometric.png",
             "title": "julho_transparente_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/junho_branco_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/junho_branco_karmella.png",
             "title": "junho_branco_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/junho_branco_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/junho_branco_kindheart.png",
             "title": "junho_branco_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/junho_branco_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/junho_branco_minuscula_karmella.png",
             "title": "junho_branco_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/junho_branco_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/junho_branco_minuscula_kindheart.png",
             "title": "junho_branco_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/junho_branco_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/junho_branco_minuscula_neometric.png",
             "title": "junho_branco_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/junho_branco_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/junho_branco_neometric.png",
             "title": "junho_branco_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/junho_preto_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/junho_preto_karmella.png",
             "title": "junho_preto_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/junho_preto_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/junho_preto_kindheart.png",
             "title": "junho_preto_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/junho_preto_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/junho_preto_minuscula_karmella.png",
             "title": "junho_preto_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/junho_preto_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/junho_preto_minuscula_kindheart.png",
             "title": "junho_preto_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/junho_preto_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/junho_preto_minuscula_neometric.png",
             "title": "junho_preto_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/junho_preto_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/junho_preto_neometric.png",
             "title": "junho_preto_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/junho_transparente_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/junho_transparente_karmella.png",
             "title": "junho_transparente_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/junho_transparente_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/junho_transparente_kindheart.png",
             "title": "junho_transparente_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/junho_transparente_kindheart_20250206072913.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/junho_transparente_kindheart_20250206072913.png",
             "title": "junho_transparente_kindheart_20250206072913"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/junho_transparente_maiuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/junho_transparente_maiuscula_karmella.png",
             "title": "junho_transparente_maiuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/junho_transparente_maiuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/junho_transparente_maiuscula_kindheart.png",
             "title": "junho_transparente_maiuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/junho_transparente_maiuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/junho_transparente_maiuscula_neometric.png",
             "title": "junho_transparente_maiuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/maio_branco_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/maio_branco_karmella.png",
             "title": "maio_branco_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/maio_branco_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/maio_branco_kindheart.png",
             "title": "maio_branco_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/maio_branco_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/maio_branco_minuscula_karmella.png",
             "title": "maio_branco_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/maio_branco_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/maio_branco_minuscula_kindheart.png",
             "title": "maio_branco_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/maio_branco_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/maio_branco_minuscula_neometric.png",
             "title": "maio_branco_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/maio_branco_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/maio_branco_neometric.png",
             "title": "maio_branco_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/maio_preto_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/maio_preto_karmella.png",
             "title": "maio_preto_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/maio_preto_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/maio_preto_kindheart.png",
             "title": "maio_preto_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/maio_preto_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/maio_preto_minuscula_karmella.png",
             "title": "maio_preto_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/maio_preto_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/maio_preto_minuscula_kindheart.png",
             "title": "maio_preto_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/maio_preto_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/maio_preto_minuscula_neometric.png",
             "title": "maio_preto_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/maio_preto_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/maio_preto_neometric.png",
             "title": "maio_preto_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/maio_transparente_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/maio_transparente_karmella.png",
             "title": "maio_transparente_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/maio_transparente_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/maio_transparente_kindheart.png",
             "title": "maio_transparente_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/maio_transparente_maiuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/maio_transparente_maiuscula_karmella.png",
             "title": "maio_transparente_maiuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/maio_transparente_maiuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/maio_transparente_maiuscula_kindheart.png",
             "title": "maio_transparente_maiuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/maio_transparente_maiuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/maio_transparente_maiuscula_neometric.png",
             "title": "maio_transparente_maiuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/maio_transparente_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/maio_transparente_neometric.png",
             "title": "maio_transparente_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/marco_branco_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/marco_branco_karmella.png",
             "title": "marco_branco_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/marco_branco_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/marco_branco_kindheart.png",
             "title": "marco_branco_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/marco_branco_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/marco_branco_minuscula_karmella.png",
             "title": "marco_branco_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/marco_branco_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/marco_branco_minuscula_kindheart.png",
             "title": "marco_branco_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/marco_branco_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/marco_branco_minuscula_neometric.png",
             "title": "marco_branco_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/marco_branco_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/marco_branco_neometric.png",
             "title": "marco_branco_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/marco_preto_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/marco_preto_karmella.png",
             "title": "marco_preto_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/marco_preto_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/marco_preto_kindheart.png",
             "title": "marco_preto_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/marco_preto_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/marco_preto_minuscula_karmella.png",
             "title": "marco_preto_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/marco_preto_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/marco_preto_minuscula_kindheart.png",
             "title": "marco_preto_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/marco_preto_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/marco_preto_minuscula_neometric.png",
             "title": "marco_preto_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/marco_preto_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/marco_preto_neometric.png",
             "title": "marco_preto_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/marco_transparente_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/marco_transparente_karmella.png",
             "title": "marco_transparente_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/marco_transparente_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/marco_transparente_kindheart.png",
             "title": "marco_transparente_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/marco_transparente_maiuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/marco_transparente_maiuscula_karmella.png",
             "title": "marco_transparente_maiuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/marco_transparente_maiuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/marco_transparente_maiuscula_kindheart.png",
             "title": "marco_transparente_maiuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/marco_transparente_maiuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/marco_transparente_maiuscula_neometric.png",
             "title": "marco_transparente_maiuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/marco_transparente_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/marco_transparente_neometric.png",
             "title": "marco_transparente_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/novembro_branco_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/novembro_branco_karmella.png",
             "title": "novembro_branco_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/novembro_branco_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/novembro_branco_kindheart.png",
             "title": "novembro_branco_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/novembro_branco_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/novembro_branco_minuscula_karmella.png",
             "title": "novembro_branco_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/novembro_branco_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/novembro_branco_minuscula_kindheart.png",
             "title": "novembro_branco_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/novembro_branco_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/novembro_branco_minuscula_neometric.png",
             "title": "novembro_branco_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/novembro_branco_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/novembro_branco_neometric.png",
             "title": "novembro_branco_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/novembro_preto_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/novembro_preto_karmella.png",
             "title": "novembro_preto_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/novembro_preto_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/novembro_preto_kindheart.png",
             "title": "novembro_preto_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/novembro_preto_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/novembro_preto_minuscula_karmella.png",
             "title": "novembro_preto_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/novembro_preto_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/novembro_preto_minuscula_kindheart.png",
             "title": "novembro_preto_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/novembro_preto_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/novembro_preto_minuscula_neometric.png",
             "title": "novembro_preto_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/novembro_preto_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/novembro_preto_neometric.png",
             "title": "novembro_preto_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/novembro_transparente_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/novembro_transparente_karmella.png",
             "title": "novembro_transparente_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/novembro_transparente_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/novembro_transparente_kindheart.png",
             "title": "novembro_transparente_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/novembro_transparente_maiuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/novembro_transparente_maiuscula_karmella.png",
             "title": "novembro_transparente_maiuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/novembro_transparente_maiuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/novembro_transparente_maiuscula_kindheart.png",
             "title": "novembro_transparente_maiuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/novembro_transparente_maiuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/novembro_transparente_maiuscula_neometric.png",
             "title": "novembro_transparente_maiuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/novembro_transparente_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/novembro_transparente_neometric.png",
             "title": "novembro_transparente_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/outubro_branco_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_branco_karmella.png",
             "title": "outubro_branco_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/outubro_branco_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_branco_kindheart.png",
             "title": "outubro_branco_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/outubro_branco_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_branco_minuscula_karmella.png",
             "title": "outubro_branco_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/outubro_branco_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_branco_minuscula_kindheart.png",
             "title": "outubro_branco_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/outubro_branco_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_branco_minuscula_neometric.png",
             "title": "outubro_branco_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/outubro_branco_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_branco_neometric.png",
             "title": "outubro_branco_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/outubro_preto_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_preto_karmella.png",
             "title": "outubro_preto_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/outubro_preto_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_preto_kindheart.png",
             "title": "outubro_preto_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/outubro_preto_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_preto_minuscula_karmella.png",
             "title": "outubro_preto_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/outubro_preto_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_preto_minuscula_kindheart.png",
             "title": "outubro_preto_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/outubro_preto_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_preto_minuscula_neometric.png",
             "title": "outubro_preto_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/outubro_preto_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_preto_neometric.png",
             "title": "outubro_preto_neometric"
-            ,
-            "favorite": 1
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/outubro_transparente_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_transparente_karmella.png",
             "title": "outubro_transparente_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/outubro_transparente_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_transparente_kindheart.png",
             "title": "outubro_transparente_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/outubro_transparente_maiuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_transparente_maiuscula_karmella.png",
             "title": "outubro_transparente_maiuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/outubro_transparente_maiuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_transparente_maiuscula_kindheart.png",
             "title": "outubro_transparente_maiuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/outubro_transparente_maiuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_transparente_maiuscula_neometric.png",
             "title": "outubro_transparente_maiuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/outubro_transparente_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_transparente_neometric.png",
             "title": "outubro_transparente_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/setembro_branco_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_branco_karmella.png",
             "title": "setembro_branco_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/setembro_branco_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_branco_kindheart.png",
             "title": "setembro_branco_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/setembro_branco_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_branco_minuscula_karmella.png",
             "title": "setembro_branco_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/setembro_branco_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_branco_minuscula_kindheart.png",
             "title": "setembro_branco_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/setembro_branco_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_branco_minuscula_neometric.png",
             "title": "setembro_branco_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/setembro_branco_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_branco_neometric.png",
             "title": "setembro_branco_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/setembro_preto_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_preto_karmella.png",
             "title": "setembro_preto_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/setembro_preto_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_preto_kindheart.png",
             "title": "setembro_preto_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/setembro_preto_minuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_preto_minuscula_karmella.png",
             "title": "setembro_preto_minuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/setembro_preto_minuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_preto_minuscula_kindheart.png",
             "title": "setembro_preto_minuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/setembro_preto_minuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_preto_minuscula_neometric.png",
             "title": "setembro_preto_minuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/setembro_preto_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_preto_neometric.png",
             "title": "setembro_preto_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/setembro_transparente_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_transparente_karmella.png",
             "title": "setembro_transparente_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/setembro_transparente_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_transparente_kindheart.png",
             "title": "setembro_transparente_kindheart"
-            ,
-            "favorite": 2
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/setembro_transparente_maiuscula_karmella.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_transparente_maiuscula_karmella.png",
             "title": "setembro_transparente_maiuscula_karmella"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/setembro_transparente_maiuscula_kindheart.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_transparente_maiuscula_kindheart.png",
             "title": "setembro_transparente_maiuscula_kindheart"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/setembro_transparente_maiuscula_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_transparente_maiuscula_neometric.png",
             "title": "setembro_transparente_maiuscula_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/meses/setembro_transparente_neometric.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_transparente_neometric.png",
             "title": "setembro_transparente_neometric"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/cinco_branco.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/cinco_branco.png",
             "title": "cinco_branco"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/cinco_preto.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/cinco_preto.png",
             "title": "cinco_preto"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/cinco_transparente.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/cinco_transparente.png",
             "title": "cinco_transparente"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/dois_branco.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/dois_branco.png",
             "title": "dois_branco"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/dois_preto.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/dois_preto.png",
             "title": "dois_preto"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/dois_transparente.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/dois_transparente.png",
             "title": "dois_transparente"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/nove_preto.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/nove_preto.png",
             "title": "nove_preto"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/nove_transparente.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/nove_transparente.png",
             "title": "nove_transparente"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/oito_branco.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/oito_branco.png",
             "title": "oito_branco"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/oito_preto.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/oito_preto.png",
             "title": "oito_preto"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/oito_transparente.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/oito_transparente.png",
             "title": "oito_transparente"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/quatro_branco.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/quatro_branco.png",
             "title": "quatro_branco"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/quatro_preto.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/quatro_preto.png",
             "title": "quatro_preto"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/quatro_transparente.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/quatro_transparente.png",
             "title": "quatro_transparente"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/seis_branco.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/seis_branco.png",
             "title": "seis_branco"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/seis_preto.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/seis_preto.png",
             "title": "seis_preto"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/seis_transparente.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/seis_transparente.png",
             "title": "seis_transparente"
-            ,
-            "promote": 1
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/sete_branco-_1.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/sete_branco-_1.png",
             "title": "sete_branco-_1"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/sete_branco.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/sete_branco.png",
             "title": "sete_branco"
-            ,
-            "promote": 2
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/sete_preto.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/sete_preto.png",
             "title": "sete_preto"
-            ,"promote": 1
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/sete_transparente.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/sete_transparente.png",
             "title": "sete_transparente"
-            ,"promote": 1
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/tres_branco.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/tres_branco.png",
             "title": "tres_branco"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/tres_preto.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/tres_preto.png",
             "title": "tres_preto"
-            ,
-            "promote": 1
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/tres_transparente.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/tres_transparente.png",
             "title": "tres_transparente"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/um_branco.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/um_branco.png",
             "title": "um_branco"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/um_preto.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/um_preto.png",
             "title": "um_preto"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/um_transparente.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/um_transparente.png",
             "title": "um_transparente"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/zero_branco.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/zero_branco.png",
             "title": "zero_branco"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/zero_preto.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/zero_preto.png",
             "title": "zero_preto"
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/numeros/zero_transparente.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/zero_transparente.png",
             "title": "zero_transparente"
         }
     ]

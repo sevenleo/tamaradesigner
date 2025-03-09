@@ -144,7 +144,7 @@ def listar_imagens(caminho_raiz, base_url):
 
 if __name__ == "__main__":
     # Define a pasta 'figurinhas' que deve estar na mesma pasta do script
-    pasta_figurinhas = os.path.join(os.getcwd(), "figurinhas")
+    pasta_figurinhas = os.path.join(os.getcwd(), "imagens")
     base_url = "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/"
     
     # Primeiro, renomeia arquivos e pastas para nomes compatíveis com a web
