@@ -445,7 +445,7 @@ function App() {
                   </g>
                 </svg>
               </a>
-              <a
+              {/* <a
                 href="https://designertamara.myportfolio.com/"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -455,7 +455,9 @@ function App() {
                   <polygon points="54 48 10 48 8 22 56 22 54 48"></polygon>
                   <polyline points="12 22 12 12 22 12 26 16 52 16 52 22"></polyline>
                 </svg>
-              </a>
+              </a>*/
+
+              /*
               <button
                 onClick={() => setDarkMode(!darkMode)}
                 className="p-2 text-gray-600 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white transition-colors"
@@ -465,7 +467,7 @@ function App() {
                 ) : (
                   <Moon className="h-5 w-5" />
                 )}
-              </button>
+              </button> */}
             </div>
           </div>
         </div>
