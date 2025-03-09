@@ -1,7 +1,7 @@
-import React, { useState, useRef, useEffect } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import ReactCrop, { type Crop } from 'react-image-crop';
 import 'react-image-crop/dist/ReactCrop.css';
-import { RotateCw, Palette, Crop as CropIcon, X, Droplet, Copy, RotateCcw, CheckCircle } from 'lucide-react';
+import { RotateCw, Palette, Crop as CropIcon, X, Droplet, Copy, RotateCcw, CheckCircle, Share2 } from 'lucide-react';
 import { ImageProtection } from './ImageProtection';
 
 interface ImageEditorProps {
@@ -22,6 +22,7 @@ export function ImageEditor({ imageUrl, onClose, onSave }: ImageEditorProps) {
     b: 0
   });
   const [copiedToClipboard, setCopiedToClipboard] = useState(false);
+  const [sharedImage, setSharedImage] = useState(false);
   const imageRef = useRef<HTMLImageElement>(null);
   const previewCanvasRef = useRef<HTMLCanvasElement>(null);
   const outputCanvasRef = useRef<HTMLCanvasElement>(null);
@@ -83,6 +84,52 @@ export function ImageEditor({ imageUrl, onClose, onSave }: ImageEditorProps) {
     } catch (err) {
       console.error('Failed to copy:', err);
       alert('Falha ao copiar imagem. Por favor, tente novamente.');
+    }
+  };
+
+  const shareImage = async () => {
+    try {
+      if (!previewCanvasRef.current) {
+        throw new Error('Preview canvas not available');
+      }
+
+      const previewCanvas = previewCanvasRef.current;
+      
+      // Create a blob from the canvas
+      const blob = await new Promise<Blob>((resolve, reject) => {
+        previewCanvas.toBlob((blob) => {
+          if (blob) resolve(blob);
+          else reject(new Error('Failed to create blob'));
+        }, 'image/png');
+      });
+
+      // Create a file from the blob
+      const file = new File([blob], 'tamara-designer-image.png', { type: 'image/png' });
+
+      // Check if Web Share API is supported
+      if (navigator.share) {
+        await navigator.share({
+          title: 'Imagem Tamara Designer',
+          files: [file]
+        });
+        setSharedImage(true);
+        setTimeout(() => setSharedImage(false), 2000);
+      } else {
+        // Fallback if Web Share API isn't supported
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'tamara-designer-image.png';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+        setSharedImage(true);
+        setTimeout(() => setSharedImage(false), 2000);
+      }
+    } catch (err) {
+      console.error('Failed to share:', err);
+      alert('Falha ao compartilhar imagem. Por favor, tente novamente.');
     }
   };
 
@@ -306,27 +353,43 @@ export function ImageEditor({ imageUrl, onClose, onSave }: ImageEditorProps) {
 
               <div className="mt-4 flex gap-2">
                 <button
-                  onClick={resetEdits}
-                  className="flex-1 inline-flex items-center justify-center px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-md shadow-sm text-sm font-medium text-gray-700 dark:text-gray-300 bg-white dark:bg-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 dark:focus:ring-offset-gray-800"
-                >
-                  <RotateCcw className="h-4 w-4 mr-2" />
-                  Restaurar Original
-                </button>
-                <button
                   onClick={copyToClipboard}
-                  className="flex-1 inline-flex items-center justify-center px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-md shadow-sm text-sm font-medium text-gray-700 dark:text-gray-300 bg-white dark:bg-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 dark:focus:ring-offset-gray-800"
+                  className="flex items-center gap-1 text-sm bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 py-1 px-2 rounded-md hover:bg-gray-300 dark:hover:bg-gray-600 focus:outline-none"
                 >
                   {copiedToClipboard ? (
                     <>
-                      <CheckCircle className="h-4 w-4 mr-2" />
+                      <CheckCircle className="h-4 w-4" />
                       Copiado!
                     </>
                   ) : (
                     <>
-                      <Copy className="h-4 w-4 mr-2" />
-                      Copiar para Área de Transferência
+                      <Copy className="h-4 w-4" />
+                      Copiar
                     </>
                   )}
+                </button>
+                <button
+                  onClick={shareImage}
+                  className="flex items-center gap-1 text-sm bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 py-1 px-2 rounded-md hover:bg-gray-300 dark:hover:bg-gray-600 focus:outline-none"
+                >
+                  {sharedImage ? (
+                    <>
+                      <CheckCircle className="h-4 w-4" />
+                      Compartilhado!
+                    </>
+                  ) : (
+                    <>
+                      <Share2 className="h-4 w-4" />
+                      Compartilhar
+                    </>
+                  )}
+                </button>
+                <button
+                  onClick={resetEdits}
+                  className="flex items-center gap-1 ml-auto text-sm bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 py-1 px-2 rounded-md hover:bg-gray-300 dark:hover:bg-gray-600 focus:outline-none"
+                >
+                  <RotateCcw className="h-4 w-4" />
+                  Resetar
                 </button>
               </div>
             </div>
