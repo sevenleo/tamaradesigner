@@ -3,28 +3,18 @@
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/bom_dia.png",
             "title": "bom_dia"
-            ,"likes": 0
-            ,
-            "premium": true
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/bom_dia_mundao.png",
             "title": "bom_dia_mundao"
-            ,"premium": true
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/bom_dia_mundao_amarelo.png",
             "title": "bom_dia_mundao_amarelo"
-            ,
-            "likes": 1
-            ,
-            "premium": true
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/bom_dia_mundao_transparente.png",
             "title": "bom_dia_mundao_transparente"
-            ,
-            "premium": true
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/cha_e_coragem.png",
@@ -153,26 +143,18 @@
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/sexta_transparente_giorgio_maiusculo.png",
             "title": "sexta_transparente_giorgio_maiusculo"
-            ,
-            "recent": 0
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/terca_transparente_giorgio_maiusculo.png",
             "title": "terca_transparente_giorgio_maiusculo"
-            ,
-            "recent": 0
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_azul/domingo_transparente_giorgio_maiusculo_coracao_blue.png",
             "title": "domingo_transparente_giorgio_maiusculo_coracao_blue"
-            ,
-            "recent": 0
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_azul/quarta_transparente_giorgio_maiusculo_coracao_blue.png",
             "title": "quarta_transparente_giorgio_maiusculo_coracao_blue"
-            ,
-            "recent": 1
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_azul/quinta_transparente_giorgio_maiusculo_coracao_blue.png",
@@ -1149,8 +1131,6 @@
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_preto_neometric.png",
             "title": "outubro_preto_neometric"
-            ,
-            "favorite": 1
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/outubro_transparente_karmella.png",
@@ -1231,8 +1211,6 @@
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_transparente_kindheart.png",
             "title": "setembro_transparente_kindheart"
-            ,
-            "favorite": 2
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/meses/setembro_transparente_maiuscula_karmella.png",
@@ -1317,8 +1295,6 @@
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/seis_transparente.png",
             "title": "seis_transparente"
-            ,
-            "promote": 1
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/sete_branco-_1.png",
@@ -1327,18 +1303,14 @@
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/sete_branco.png",
             "title": "sete_branco"
-            ,
-            "promote": 2
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/sete_preto.png",
             "title": "sete_preto"
-            ,"promote": 1
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/sete_transparente.png",
             "title": "sete_transparente"
-            ,"promote": 1
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/tres_branco.png",
@@ -1347,8 +1319,6 @@
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/tres_preto.png",
             "title": "tres_preto"
-            ,
-            "promote": 1
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/numeros/tres_transparente.png",
