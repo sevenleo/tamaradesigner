@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "url": "https://images.unsplash.com/photo-1557683316-973673baf926?auto=format&w=500&h=500&fit=crop&q=80",
+      "title": "Minimal Design"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1579546929662-711aa81148cf?auto=format&w=500&h=500&fit=crop&q=80",
+      "title": "Gradient Abstract"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1557682250-33bd709cbe85?auto=format&w=500&h=500&fit=crop&q=80",
+      "title": "Purple Waves"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg",
+      "title": "Windows Logo",
+      "fallbackUrl": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&w=500&h=500&fit=crop&q=80"
+    },
+    {
+      "url": "https://ix-marketing.imgix.net/focalpoint.png?auto=format,compress&w=1946",
+      "title": "Girl"
+    }
+  ]
+}

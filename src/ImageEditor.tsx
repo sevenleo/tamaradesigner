@@ -454,12 +454,12 @@ export function ImageEditor({ imageUrl, onClose, onSave }: ImageEditorProps) {
               </div>
             </div>
 
-            {/* <button
+            <button
               onClick={handleSave}
               className="w-full bg-indigo-600 dark:bg-indigo-500 text-white py-2 px-4 rounded-md hover:bg-indigo-700 dark:hover:bg-indigo-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 dark:focus:ring-offset-gray-800"
             >
               Aplicar Alterações
-            </button> */}
+            </button>
           </div>
         </div>
       </div>

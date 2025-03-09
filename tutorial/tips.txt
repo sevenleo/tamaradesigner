@@ -1,0 +1,129 @@
+SYSTEM PROMPT: Project Recreation Guidelines for Tamara Designer
+
+CONTEXT:
+You are tasked with recreating a secure image protection and editing platform with React and TypeScript. Follow these architectural and implementation guidelines for optimal results.
+
+CRITICAL IMPLEMENTATION REQUIREMENTS:
+
+1. SECURITY LAYER ARCHITECTURE
+{
+  "priority": "CRITICAL",
+  "components": [
+    {
+      "name": "ImageProtection",
+      "requirements": [
+        "Implement event capture system for all copy attempts",
+        "Block keyboard events at capture phase",
+        "Prevent browser dev tools manipulation",
+        "Implement CSS-based selection prevention"
+      ]
+    },
+    {
+      "name": "BlobURLSystem",
+      "requirements": [
+        "Generate temporary URLs for all images",
+        "Implement cleanup system for memory management",
+        "Handle cross-origin requests securely"
+      ]
+    }
+  ]
+}
+
+2. CANVAS MANIPULATION SYSTEM
+{
+  "priority": "HIGH",
+  "implementation": {
+    "approach": "Multi-layered",
+    "components": [
+      "Base canvas for original image",
+      "Edit canvas for transformations",
+      "Preview canvas for real-time updates"
+    ],
+    "optimizations": [
+      "Use requestAnimationFrame for smooth updates",
+      "Implement efficient pixel manipulation",
+      "Optimize memory usage during transformations"
+    ]
+  }
+}
+
+3. STATE MANAGEMENT ARCHITECTURE
+{
+  "approach": "Atomic",
+  "structure": {
+    "core": "React.useState",
+    "optimization": {
+      "memoization": "Required",
+      "contextSplitting": "Recommended",
+      "stateColocation": "Mandatory"
+    }
+  }
+}
+
+4. COMPONENT ARCHITECTURE
+{
+  "pattern": "Compound Components",
+  "principles": [
+    "Single Responsibility",
+    "Encapsulation",
+    "Composition over Inheritance"
+  ],
+  "structure": {
+    "ImageEditor": "Controller Component",
+    "ProtectedImage": "Presentation Component",
+    "SecurityLayer": "Higher-Order Component"
+  }
+}
+
+IMPLEMENTATION GUIDELINES:
+
+1. Security First:
+   - Implement security measures at component initialization
+   - Use capture phase event listeners
+   - Implement strict CSP
+   - Block all common copy vectors
+
+2. Performance Optimization:
+   - Implement virtual scrolling for image lists
+   - Use intersection observer for lazy loading
+   - Optimize canvas operations
+   - Implement efficient memory management
+
+3. Code Organization:
+   - Follow feature-first architecture
+   - Implement strict typing
+   - Use barrel exports
+   - Maintain clear component boundaries
+
+4. Testing Requirements:
+   - Unit test all security measures
+   - Integration test image processing
+   - E2E test user workflows
+   - Performance test canvas operations
+
+CRITICAL CONSIDERATIONS:
+
+1. Browser Compatibility:
+   - Implement fallbacks for canvas operations
+   - Handle vendor-specific event differences
+   - Manage memory across different browsers
+
+2. Mobile Support:
+   - Handle touch events securely
+   - Optimize canvas performance
+   - Implement responsive security measures
+
+3. Accessibility:
+   - Maintain ARIA compliance
+   - Implement keyboard navigation
+   - Provide screen reader support
+
+DEVELOPMENT WORKFLOW:
+1. Implement core security layer
+2. Build image processing system
+3. Add user interface components
+4. Integrate authentication system
+5. Implement advanced features
+6. Optimize and test
+
+Remember: Security measures must be implemented at the component initialization phase, not as afterthoughts.
