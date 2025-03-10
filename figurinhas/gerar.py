@@ -119,10 +119,13 @@ def listar_imagens(caminho_raiz, base_url):
                 # Verificar premium
                 if "~" in nome_arquivo:
                     premium = True
-                    #nome_arquivo = nome_arquivo.replace("~", "")
+                    nome_arquivo = nome_arquivo.replace("~", " ")
 
                 # Obter timestamp de modificação
                 recent = int(os.path.getmtime(caminho_completo))
+
+                # Substituir sublinhado por espaço
+                nome_arquivo = nome_arquivo.replace("_", " ")
 
                 # Criar objeto da imagem
                 image_obj = {
