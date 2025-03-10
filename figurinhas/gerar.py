@@ -5,23 +5,16 @@ import unicodedata
 import datetime
 
 def normalize_filename(nome):
-    # Remove espaços em excesso do começo e fim, e colapsa espaços internos
+    # Lógica de normalização existente
     nome = nome.strip()
     nome = re.sub(r'\s+', ' ', nome)
-    # Converte para minúsculas
     nome = nome.lower()
-    # Remove acentuação
     nome = unicodedata.normalize('NFD', nome)
     nome = nome.encode('ascii', 'ignore').decode("utf-8")
-    # Substitui espaços por underline
     nome = nome.replace(' ', '_')
-    # Colapsa múltiplos underlines para um único
     nome = re.sub(r'_+', '_', nome)
-    # Remove underlines do começo e fim
     nome = nome.strip('_')
-    # Colapsa múltiplos hífens para um único
     nome = re.sub(r'-+', '-', nome)
-    # Remove hífens do começo e do final
     nome = nome.strip('-')
     return nome
 
@@ -29,17 +22,11 @@ def current_timestamp():
     return datetime.datetime.now().strftime("%Y%m%d%H%M%S")
 
 def safe_rename_file(src, dst):
-    """
-    Renomeia um arquivo. Se src e dst diferirem apenas em capitalização, utiliza um nome temporário.
-    Se o arquivo de destino já existir, adiciona um timestamp ao nome.
-    Retorna o caminho final do arquivo.
-    """
-    # Caso apenas a capitalização seja diferente
+    # Lógica de renomeação existente
     if os.path.normcase(src) == os.path.normcase(dst) and src != dst:
         temp = src + "_temp_rename"
         os.rename(src, temp)
         src = temp
-    # Se o destino já existir, adiciona timestamp
     if os.path.exists(dst):
         base, ext = os.path.splitext(dst)
         import random
@@ -49,12 +36,7 @@ def safe_rename_file(src, dst):
     return dst
 
 def merge_directories(src, dst):
-    """
-    Mescla o conteúdo da pasta src na pasta dst.
-    Para cada arquivo, se já existir em dst, acrescenta um timestamp ao nome.
-    Para subpastas, mescla recursivamente.
-    Ao final, remove a pasta src.
-    """
+    # Lógica de mesclagem existente
     for item in os.listdir(src):
         item_src = os.path.join(src, item)
         item_dst = os.path.join(dst, item)
@@ -71,17 +53,12 @@ def merge_directories(src, dst):
     os.rmdir(src)
 
 def safe_rename_dir(src, dst):
-    """
-    Renomeia uma pasta. Se src e dst diferirem apenas em capitalização, utiliza um nome temporário.
-    Se a pasta de destino já existir, mescla os conteúdos.
-    Retorna o caminho final da pasta.
-    """
+    # Lógica de renomeação de diretório existente
     if os.path.normcase(src) == os.path.normcase(dst) and src != dst:
         temp = src + "_temp_rename"
         os.rename(src, temp)
         src = temp
     if os.path.exists(dst):
-        # Mescla as pastas
         merge_directories(src, dst)
         return dst
     else:
@@ -89,14 +66,13 @@ def safe_rename_dir(src, dst):
         return dst
 
 def renomear_arquivos_e_pastas(caminho_raiz):
-    # topdown=False para renomear primeiro os arquivos e depois as pastas (de baixo para cima)
+    # Lógica de renomeação existente
     for raiz, dirs, arquivos in os.walk(caminho_raiz, topdown=False):
-        # Renomeia arquivos
         for arquivo in arquivos:
             if arquivo.lower().endswith(".png"):
                 nome_base, extensao = os.path.splitext(arquivo)
                 novo_nome_base = normalize_filename(nome_base)
-                novo_nome = novo_nome_base + extensao.lower()  # garante extensão em minúsculo
+                novo_nome = novo_nome_base + extensao.lower()
                 if arquivo != novo_nome:
                     caminho_antigo = os.path.join(raiz, arquivo)
                     caminho_novo = os.path.join(raiz, novo_nome)
@@ -105,7 +81,6 @@ def renomear_arquivos_e_pastas(caminho_raiz):
                         print(f"Renomeado arquivo: {arquivo} -> {novo_nome}")
                     except Exception as e:
                         print(f"Erro ao renomear arquivo {arquivo}: {e}")
-        # Renomeia pastas
         for i, pasta in enumerate(dirs):
             novo_nome = normalize_filename(pasta)
             if pasta != novo_nome:
@@ -114,43 +89,82 @@ def renomear_arquivos_e_pastas(caminho_raiz):
                 try:
                     safe_rename_dir(caminho_antigo, caminho_novo)
                     print(f"Renomeada pasta: {pasta} -> {novo_nome}")
-                    dirs[i] = novo_nome  # atualiza a lista para manter a consistência
+                    dirs[i] = novo_nome
                 except Exception as e:
                     print(f"Erro ao renomear pasta {pasta}: {e}")
-
-# def listar_imagens(caminho_raiz, base_url):
-#     imagens = []
-#     for raiz, _, arquivos in os.walk(caminho_raiz):
-#         for arquivo in arquivos:
-#             if arquivo.lower().endswith(".png"):
-#                 # Converte o caminho para usar barras normais
-#                 caminho_relativo = os.path.relpath(os.path.join(raiz, arquivo), caminho_raiz).replace("\\", "/")
-#                 nome_arquivo = os.path.splitext(arquivo)[0]
-#                 imagens.append({"url": base_url + caminho_relativo, "title": nome_arquivo})
-#     return imagens
 
 def listar_imagens(caminho_raiz, base_url):
     imagens = []
     for raiz, _, arquivos in os.walk(caminho_raiz):
         for arquivo in arquivos:
             if arquivo.lower().endswith(".png"):
-                # Converte o caminho para usar barras normais
-                caminho_relativo = os.path.relpath(os.path.join(raiz, arquivo), caminho_raiz).replace("\\", "/")
+                caminho_completo = os.path.join(raiz, arquivo)
+                caminho_relativo = os.path.relpath(caminho_completo, caminho_raiz).replace("\\", "/")
                 nome_arquivo = os.path.splitext(arquivo)[0]
-                image_obj = {"url": base_url + caminho_relativo, "title": nome_arquivo}
-                imagens.append(image_obj)
-    return {"images": imagens}
 
+                # Ignorar arquivos com sufixo "_"
+                if nome_arquivo.endswith("_"):
+                    continue
+
+                # Inicializar campos opcionais
+                promote = None
+                premium = False
+
+                # Extrair promote
+                promote_match = re.search(r'!(\d+)$', nome_arquivo)
+                if promote_match:
+                    promote = int(promote_match.group(1))
+                    nome_arquivo = nome_arquivo[:promote_match.start()]
+
+                # Verificar premium
+                if nome_arquivo.endswith("#"):
+                    premium = True
+                    nome_arquivo = nome_arquivo[:-1]
+
+                # Obter timestamp de modificação
+                recent = int(os.path.getmtime(caminho_completo))
+
+                # Criar objeto da imagem
+                image_obj = {
+                    "url": base_url + caminho_relativo,
+                    "title": nome_arquivo,
+                    "recent": recent  # Adiciona recent como obrigatório
+                }
+
+                # Adicionar campos opcionais
+                if promote is not None:
+                    image_obj["promote"] = promote
+                if premium:
+                    image_obj["premium"] = premium
+
+                imagens.append(image_obj)
+
+    # Função de ordenação personalizada
+    def sort_key(image):
+        promote_val = image.get('promote')
+        if promote_val is not None:
+            return (0, promote_val)
+        favorite_val = image.get('favorite')
+        if favorite_val is not None:
+            return (1, -favorite_val)
+        likes_val = image.get('likes')
+        if likes_val is not None:
+            return (2, -likes_val)
+        recent_val = image.get('recent')
+        if recent_val is not None:
+            return (3, -recent_val)
+        return (4, imagens.index(image))  # Mantém ordem original
+
+    # Ordenar as imagens
+    sorted_imagens = sorted(imagens, key=sort_key)
+    return {"images": sorted_imagens}
 
 if __name__ == "__main__":
-    # Define a pasta 'figurinhas' que deve estar na mesma pasta do script
     pasta_figurinhas = os.path.join(os.getcwd(), "imagens")
     base_url = "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/"
     
-    # Primeiro, renomeia arquivos e pastas para nomes compatíveis com a web
     renomear_arquivos_e_pastas(pasta_figurinhas)
     
-    # Em seguida, gera o JSON com as URLs completas
     lista_imagens = listar_imagens(pasta_figurinhas, base_url)
     
     with open("figurinhas.json", "w", encoding="utf-8") as f:

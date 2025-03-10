@@ -6,7 +6,7 @@ Array de objetos JSON
 Cada objeto possui:
 
 Campos obrigatórios: url, title
-Campos opcionais: promote (int), favorite (int), likes (int), recent (int)
+Campos opcionais: premium (bol), promote (int), favorite (int), likes (int), recent (int)
 
 Regras de ordenação em ordem de prioridade:
 
@@ -22,3 +22,9 @@ Restante das imagens na ordem que aparecem no arquivo original json
 imagens com a chave premium deve ter os respectivos botoes "copiar para area de transferência" e "editar imagem" desabilitados
 se o usuario nao estiver logado
 
+
+
+arquivos com o sufixo "#" devem receber a propriedade premium
+arquivos com o sufixo "!{int}" devem receber a propriedade promote com o valor {int}
+arquivos com o sufixo "_" devem ser ignorados
+a chave recent receber o timestamp da data de modificacao do arquivo
