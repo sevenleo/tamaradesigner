@@ -151,9 +151,23 @@ function App() {
           throw new Error('Failed to load images');
         }
         const data = await response.json();
-        setLastModified(new Date(response.headers.get('last-modified') || '').toLocaleString('pt-BR', { 
-          timeZone: 'America/Sao_Paulo'
-        }));
+        
+        // Try to get last modified from response headers first
+        let modifiedDate = response.headers.get('last-modified');
+        if (!modifiedDate && data.lastModified) {
+          // Fallback to lastModified from JSON if header is not available
+          modifiedDate = new Date(data.lastModified).toISOString();
+        }
+
+        if (modifiedDate) {
+          const date = new Date(modifiedDate);
+          if (!isNaN(date.getTime())) {
+            setLastModified(date.toLocaleString('pt-BR', { 
+              timeZone: 'America/Sao_Paulo'
+            }));
+          }
+        }
+
         const transformedImages = data.images.map((img: Image) => ({
           ...img,
           title: toTitleCase(img.title),
