@@ -115,6 +115,7 @@ function App() {
 
   const [showInfo, setShowInfo] = useState(false);
   const [lastModified, setLastModified] = useState<string | null>(null);
+  const [lastModifiedJson, setLastModifiedJson] = useState<string | null>(null);
 
   const ITEMS_PER_PAGE = 48;
 
@@ -154,10 +155,8 @@ function App() {
         
         // Try to get last modified from response headers first
         let modifiedDate = response.headers.get('last-modified');
-        if (!modifiedDate && data.lastModified) {
-          // Fallback to lastModified from JSON if header is not available
-          modifiedDate = new Date(data.lastModified).toISOString();
-        }
+
+        let jsonDate = new Date(data.lastModified).toISOString();
 
         if (modifiedDate) {
           const date = new Date(modifiedDate);
@@ -167,6 +166,16 @@ function App() {
             }));
           }
         }
+
+        if (jsonDate) {
+          const date = new Date(jsonDate);
+          if (!isNaN(date.getTime())) {
+            setLastModifiedJson(date.toLocaleString('pt-BR', { 
+              timeZone: 'America/Sao_Paulo'
+            }));
+          }
+        }
+
 
         const transformedImages = data.images.map((img: Image) => ({
           ...img,
@@ -624,7 +633,12 @@ function App() {
         </button>
         {showInfo && lastModified && (
           <div className="mt-2">
-            Última atualização: {lastModified}
+            Última atualização do projeto: {lastModified}
+          </div>
+        )}
+        {showInfo && lastModifiedJson && (
+          <div className="mt-2">
+            Última atualização do JSON: {lastModifiedJson}
           </div>
         )}
       </footer>
