@@ -24,7 +24,7 @@ se o usuario nao estiver logado
 
 
 
-arquivos com o sufixo "#" devem receber a propriedade premium
+arquivos com o simbolo "~" em qualquer parte do seu nome devem receber a propriedade premium
 arquivos com o sufixo "!{int}" devem receber a propriedade promote com o valor {int}
 arquivos com o sufixo "_" devem ser ignorados
 a chave recent receber o timestamp da data de modificacao do arquivo

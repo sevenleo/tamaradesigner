@@ -117,9 +117,9 @@ def listar_imagens(caminho_raiz, base_url):
                     nome_arquivo = nome_arquivo[:promote_match.start()]
 
                 # Verificar premium
-                if nome_arquivo.endswith("#"):
+                if "~" in nome_arquivo:
                     premium = True
-                    nome_arquivo = nome_arquivo[:-1]
+                    nome_arquivo = nome_arquivo.replace("~", "")
 
                 # Obter timestamp de modificação
                 recent = int(os.path.getmtime(caminho_completo))
