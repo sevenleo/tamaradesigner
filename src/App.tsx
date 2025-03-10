@@ -1,20 +1,18 @@
 import React, { useState, useEffect } from 'react';
 import {
-  ImageIcon,
   CheckCircle,
   Copy,
+  Share2,
+  Search,
+  Lock,
   Pencil,
   RotateCcw,
-  Moon,
-  Sun,
-  Instagram,
-  Search,
   ChevronLeft,
   ChevronRight,
-  Lock,
   LogOut,
   LogIn,
-  Share2,
+  Instagram,
+  Info as InfoIcon
 } from 'lucide-react';
 import { ImageEditor } from './ImageEditor';
 import LoginForm from './LoginForm';
@@ -115,6 +113,9 @@ function App() {
     password: '',
   });
 
+  const [showInfo, setShowInfo] = useState(false);
+  const [lastModified, setLastModified] = useState<string | null>(null);
+
   const ITEMS_PER_PAGE = 48;
 
   useEffect(() => {
@@ -150,6 +151,9 @@ function App() {
           throw new Error('Failed to load images');
         }
         const data = await response.json();
+        setLastModified(new Date(response.headers.get('last-modified') || '').toLocaleString('pt-BR', { 
+          timeZone: 'America/Sao_Paulo'
+        }));
         const transformedImages = data.images.map((img: Image) => ({
           ...img,
           title: toTitleCase(img.title),
@@ -595,6 +599,21 @@ function App() {
           {totalPages > 1 && renderPagination()}
         </div>
       </main>
+
+      <footer className="mt-8 pb-4 text-center text-xs text-gray-500 dark:text-gray-400">
+        <button
+          onClick={() => setShowInfo(!showInfo)}
+          className="inline-flex items-center hover:text-gray-700 dark:hover:text-gray-300"
+        >
+          <InfoIcon className="h-3 w-3 mr-1" />
+          Info
+        </button>
+        {showInfo && lastModified && (
+          <div className="mt-2">
+            Última atualização: {lastModified}
+          </div>
+        )}
+      </footer>
 
       {editingImage && (
         <ImageEditor
