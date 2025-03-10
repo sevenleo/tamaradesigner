@@ -103,7 +103,7 @@ def listar_imagens(caminho_raiz, base_url):
                 nome_arquivo = os.path.splitext(arquivo)[0]
 
                 # Ignorar arquivos com sufixo "_"
-                if nome_arquivo.endswith("_"):
+                if nome_arquivo.endswith("#"):
                     continue
 
                 # Inicializar campos opcionais

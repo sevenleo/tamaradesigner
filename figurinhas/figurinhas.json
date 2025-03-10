@@ -1,6 +1,12 @@
 {
     "images": [
         {
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/ln7!1.png",
+            "title": "ln7",
+            "recent": 1741571604,
+            "promote": 1
+        },
+        {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_azul/domingo_transparente_giorgio_maiusculo_coracao_blue!1.png",
             "title": "domingo transparente giorgio maiusculo coracao blue",
             "recent": 1741565744,
@@ -11,6 +17,11 @@
             "title": "sabado transparente giorgio maiusculo coracao blue",
             "recent": 1741565744,
             "promote": 1
+        },
+        {
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/leo_neves.png",
+            "title": "leo neves",
+            "recent": 1741571578
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/boa_noite/entao_boa_noite.png",
@@ -79,16 +90,6 @@
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/frases/tudo_que_eu_quero_transparente.png",
             "title": "tudo que eu quero transparente",
-            "recent": 1741567642
-        },
-        {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/oi/oi_fevereiro_preto.png",
-            "title": "oi fevereiro preto",
-            "recent": 1741567642
-        },
-        {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/oi/oi_fevereiro_transparente.png",
-            "title": "oi fevereiro transparente",
             "recent": 1741567642
         },
         {
