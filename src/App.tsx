@@ -140,9 +140,12 @@ function App() {
   useEffect(() => {
     const loadImages = async () => {
       try {
-        const response = await fetch(
-          'https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/figurinhas.json'
-        );
+        const isLocalDevelopment = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+        const imageUrl = isLocalDevelopment
+          ? '/figurinhas/figurinhas.json'
+          : 'https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/figurinhas.json';
+
+        const response = await fetch(imageUrl);
         if (!response.ok) {
           throw new Error('Failed to load images');
         }
