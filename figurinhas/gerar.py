@@ -3,6 +3,8 @@ import json
 import re
 import unicodedata
 import datetime
+from datetime import datetime
+import pytz
 
 def normalize_filename(nome):
     # Lógica de normalização existente
@@ -94,6 +96,7 @@ def renomear_arquivos_e_pastas(caminho_raiz):
                     print(f"Erro ao renomear pasta {pasta}: {e}")
 
 def listar_imagens(caminho_raiz, base_url):
+    tz = pytz.timezone('America/Sao_Paulo')
     imagens = []
     for raiz, _, arquivos in os.walk(caminho_raiz):
         for arquivo in arquivos:
@@ -160,7 +163,11 @@ def listar_imagens(caminho_raiz, base_url):
 
     # Ordenar as imagens
     sorted_imagens = sorted(imagens, key=sort_key)
-    return {"images": sorted_imagens}
+    data = {
+        "lastModified": datetime.now(tz).isoformat(),
+        "images": sorted_imagens
+    }
+    return data
 
 if __name__ == "__main__":
     pasta_figurinhas = os.path.join(os.getcwd(), "imagens")
