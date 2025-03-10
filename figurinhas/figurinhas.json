@@ -1,10 +1,11 @@
 {
     "images": [
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/ln7!1.png",
-            "title": "ln7",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/ln7~!1.png",
+            "title": "ln7 ",
             "recent": 1741571604,
-            "promote": 1
+            "promote": 1,
+            "premium": true
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/transp/coracao_azul/domingo_transparente_giorgio_maiusculo_coracao_blue!1.png",
@@ -19,38 +20,29 @@
             "promote": 1
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/leo_neves.png",
-            "title": "leo neves",
-            "recent": 1741571578
-        },
-        {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/boa_noite/entao_boa_noite.png",
             "title": "entao boa noite",
             "recent": 1741567642
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/bom_dia/bom_dia_mundao_amarelo~.png",
-            "title": "bom dia mundao amarelo ",
-            "recent": 1741567642,
-            "premium": true
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/bom_dia/bom_dia.png",
+            "title": "bom dia",
+            "recent": 1741567642
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/bom_dia/bom_dia~mundao.png",
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/bom_dia/bom_dia_mundao.png",
             "title": "bom dia mundao",
-            "recent": 1741567642,
-            "premium": true
+            "recent": 1741567642
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/bom_dia/~bom_dia.png",
-            "title": " bom dia",
-            "recent": 1741567642,
-            "premium": true
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/bom_dia/bom_dia_mundao_amarelo.png",
+            "title": "bom dia mundao amarelo",
+            "recent": 1741567642
         },
         {
-            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/bom_dia/~bom_dia_mundao_transparente.png",
-            "title": " bom dia mundao transparente",
-            "recent": 1741567642,
-            "premium": true
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/bom_dia/bom_dia_mundao_transparente.png",
+            "title": "bom dia mundao transparente",
+            "recent": 1741567642
         },
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/dias_da_semanas/o_sabado_que_eu_gosto_branco.png",
@@ -90,6 +82,16 @@
         {
             "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/frases/tudo_que_eu_quero_transparente.png",
             "title": "tudo que eu quero transparente",
+            "recent": 1741567642
+        },
+        {
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/oi/oi_fevereiro_preto.png",
+            "title": "oi fevereiro preto",
+            "recent": 1741567642
+        },
+        {
+            "url": "https://raw.githubusercontent.com/sevenleo/tamaradesigner/refs/heads/main/figurinhas/imagens/oi/oi_fevereiro_transparente.png",
+            "title": "oi fevereiro transparente",
             "recent": 1741567642
         },
         {
